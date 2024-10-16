@@ -2,7 +2,7 @@ print("Hello People")
 
 #change terminal to git bash
 
-def farewell()
+def farewell():
     return "bye!"
 
-print(farewell())
+print(farewell)
